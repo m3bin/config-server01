@@ -2,9 +2,9 @@ server:
     port: 8082
 spring:
     datasource:
-        password: root
-        url: jdbc:mysql://localhost:3306/employeesdatabase?useSSL=false
+        url: jdbc:mysql://localhost:3306/employeedb
         username: root
+        password: root@123
     jpa:
         hibernate:
             ddl-auto: update
