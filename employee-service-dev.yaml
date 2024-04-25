@@ -15,7 +15,7 @@ spring:
 # Test Details for Development Environment
 test:
   details: Employee service details for development environment [From GitHub]
-  engineer: John Doe
+  engineer: Mebin mathew
   department: Development Testing
   engineerContact:
     email: testengineer.dev@example.com
