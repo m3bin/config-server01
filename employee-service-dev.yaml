@@ -14,7 +14,7 @@ spring:
                 
 # Test Details for Development Environment
 test:
-  details: Employee service details for development environment [From GitHub]
+  details: Employee details for dev environment from GitHub
   employee: Mebin mathew
   email: mm@test.com   
   age: 29
