@@ -15,9 +15,7 @@ spring:
       
 # Test Details for Prod Environment
 test:
-  details: Department service details for Prod environment [From GitHub]
-  engineer: Alice Johnson
-  department: Prod Testing [Dept service]
-  engineerContact:
-    email: alice01.prd@example.com
-    phone: 111-431-7890       
+  details: Address details for prod environment from GitHub
+  employee: Mathew Mebin
+  city: Kottayam
+  state: Kerala       
