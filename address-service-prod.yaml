@@ -16,6 +16,6 @@ spring:
 # Test Details for Prod Environment
 test:
   details: Address details for prod environment from GitHub
-  employee: Mathew Mebin
-  city: Kottayam
-  state: Kerala       
+  employee: Katie Ellen
+  city: Athlone
+  state: Westmeath       
