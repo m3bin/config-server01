@@ -14,9 +14,7 @@ spring:
                 
 # Test Details for QA Environment
 test:
-  details: Employee service details for QA environment
-  engineer: Jane Smith
-  department: Quality Assurance
-  engineerContact:
-    email: testengineer.qa@example.com
-    phone: 987-654-3210               
+  details: Employee details for QA environment from GitHub
+  employee: John Joseph
+  email: jj@test.com   
+  age: 28              
