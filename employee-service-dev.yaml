@@ -15,8 +15,6 @@ spring:
 # Test Details for Development Environment
 test:
   details: Employee service details for development environment [From GitHub]
-  engineer: Mebin mathew
-  department: Development Testing
-  engineerContact:
-    email: testengineer.dev@example.com
-    phone: 123-456-7890                
+  employee: Mebin mathew
+  email: mm@test.com   
+  age: 29
