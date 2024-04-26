@@ -15,7 +15,7 @@ spring:
       
 # Test Details for Development Environment
 test:
-  details: Address details for dev environment [From GitHub]
+  details: Address details for dev environment from GitHub
   employee: Mathew Mebin
   city: Kottayam
   state: Kerala
